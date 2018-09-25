@@ -1694,3 +1694,4 @@ Interrupcao_1:		PUSH R0;				Guarda os registos
 					POP R1;					Recupera registos
 					POP R0
 					RFE
+					
